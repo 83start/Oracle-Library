@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f90ab38a-85a5-45ce-b735-546639b6e14d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ltttM2OPrrZMhu5xDDAQT28Cik" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;oracle" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowStatistic.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="database.data.extractors.current.id" value="Excel (xlsx)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SoftwareTest" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2232416" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.JWorld.entity" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.JWorld.library.test.borrowAndReturn" />
+      <recent name="com.JWorld.library.dao.borrowAndReturn" />
+      <recent name="com.JWorld.library.test.borrow" />
+      <recent name="com.JWorld.library.test.press" />
+      <recent name="com.JWorld.library.test.author" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myCode\Java Web\JWorldLibrary\web\WEB-INF\lib" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\myCode\Java Web\JWorldLibrary\web\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RegisterTest (1)">
+    <configuration name="RegisterTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JWorld.library.test.student.RegisterTest" />
+      <module name="JWorldLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JWorld.library.test.student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JWorld.library.test.admin.RegisterTest" />
+      <module name="JWorldLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JWorld.library.test.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateAdminAnswerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JWorld.library.test.admin.UpdateAdminAnswerTest" />
+      <module name="JWorldLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JWorld.library.test.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateAdminDataTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JWorld.library.test.admin.UpdateAdminDataTest" />
+      <module name="JWorldLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JWorld.library.test.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateStuInfoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JWorld.library.test.student.UpdateStuInfoTest" />
+      <module name="JWorldLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JWorld.library.test.student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="library" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.36" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="START_JAVASCRIPT_DEBUGGER" value="true" />
+      <deployment>
+        <artifact name="JWorldLibrary:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JWorldLibrary" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_0_36_JWorldLibrary" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52080" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JWorldLibrary:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RegisterTest (1)" />
+        <item itemvalue="Application.RegisterTest" />
+        <item itemvalue="Application.UpdateStuInfoTest" />
+        <item itemvalue="Application.UpdateAdminDataTest" />
+        <item itemvalue="Application.UpdateAdminAnswerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INTERFACES,SHOW_PROPERTIES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f90ab38a-85a5-45ce-b735-546639b6e14d" name="Default Changelist" comment="" />
+      <created>1608428428992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608428428992</updated>
+      <workItem from="1608428432242" duration="2557000" />
+      <workItem from="1608552765038" duration="598000" />
+      <workItem from="1608605327756" duration="524000" />
+      <workItem from="1608606085143" duration="21000" />
+      <workItem from="1608701609005" duration="865000" />
+      <workItem from="1608729689001" duration="251000" />
+      <workItem from="1608729958882" duration="105000" />
+      <workItem from="1608731487235" duration="88000" />
+      <workItem from="1608792602996" duration="3298000" />
+      <workItem from="1608809261902" duration="76000" />
+      <workItem from="1608991211927" duration="1114000" />
+      <workItem from="1609033611439" duration="608000" />
+      <workItem from="1609034233676" duration="207000" />
+      <workItem from="1609034470100" duration="4681000" />
+      <workItem from="1609074158589" duration="3156000" />
+      <workItem from="1609116446828" duration="3592000" />
+      <workItem from="1609120735260" duration="2843000" />
+      <workItem from="1609124708930" duration="64000" />
+      <workItem from="1609125081435" duration="2527000" />
+      <workItem from="1609135880016" duration="3773000" />
+      <workItem from="1609140452363" duration="1028000" />
+      <workItem from="1609143865153" duration="2294000" />
+      <workItem from="1609159546186" duration="4538000" />
+      <workItem from="1609164700859" duration="3687000" />
+      <workItem from="1609204106639" duration="1331000" />
+      <workItem from="1609211244021" duration="359000" />
+      <workItem from="1609213717828" duration="40000" />
+      <workItem from="1609247579037" duration="830000" />
+      <workItem from="1609283452426" duration="1306000" />
+      <workItem from="1609290531622" duration="1419000" />
+      <workItem from="1609296004209" duration="2388000" />
+      <workItem from="1609307728064" duration="284000" />
+      <workItem from="1609308031507" duration="12291000" />
+      <workItem from="1609374393574" duration="9000" />
+      <workItem from="1609376455460" duration="930000" />
+      <workItem from="1609401036183" duration="7667000" />
+      <workItem from="1609458529893" duration="628000" />
+      <workItem from="1609459178181" duration="71000" />
+      <workItem from="1609459262027" duration="1279000" />
+      <workItem from="1609500849786" duration="7548000" />
+      <workItem from="1609552331817" duration="8641000" />
+      <workItem from="1609564291124" duration="5975000" />
+      <workItem from="1609572765489" duration="819000" />
+      <workItem from="1609573605356" duration="4823000" />
+      <workItem from="1609578641776" duration="3964000" />
+      <workItem from="1609582774857" duration="6798000" />
+      <workItem from="1609590559763" duration="1153000" />
+      <workItem from="1609595372383" duration="563000" />
+      <workItem from="1609633417571" duration="739000" />
+      <workItem from="1609639726591" duration="648000" />
+      <workItem from="1609665383150" duration="611000" />
+      <workItem from="1609722190003" duration="6762000" />
+      <workItem from="1610256826975" duration="161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609307756323">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1609307756323" />
+    <state x="389" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609404008927">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="389" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1609404008927" />
+    <state x="958" y="151" key="#com.intellij.ide.util.MemberChooser" timestamp="1609586539372">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="958" y="151" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1609586539372" />
+    <state x="526" y="317" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1609723647392">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="526" y="317" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864@0.0.1536.864" timestamp="1609723647392" />
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609421511242">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1609421511242" />
+    <state x="460" y="78" key="#console.sql" timestamp="1609126528690">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="460" y="78" key="#console.sql/0.0.1536.864@0.0.1536.864" timestamp="1609126528690" />
+    <state x="904" y="288" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1609557065023">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="904" y="288" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.864@0.0.1536.864" timestamp="1609557065023" />
+    <state width="252" height="195" key="DatabaseViewActions_Filter" timestamp="1609307747044">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="252" height="195" key="DatabaseViewActions_Filter/0.0.1536.864@0.0.1536.864" timestamp="1609307747044" />
+    <state x="445" y="176" key="FileChooserDialogImpl" timestamp="1610256988091">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="445" y="176" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1610256988091" />
+    <state width="1493" height="259" key="GridCell.Tab.0.bottom" timestamp="1609742347566">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="259" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1609742347566" />
+    <state width="1493" height="259" key="GridCell.Tab.0.center" timestamp="1609742347566">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="259" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1609742347566" />
+    <state width="1493" height="259" key="GridCell.Tab.0.left" timestamp="1609742347566">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="259" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1609742347566" />
+    <state width="1493" height="259" key="GridCell.Tab.0.right" timestamp="1609742347566">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="259" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1609742347566" />
+    <state width="212" height="539" key="HiddenNamespacesPopup" timestamp="1609125088235">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="212" height="539" key="HiddenNamespacesPopup/0.0.1536.864@0.0.1536.864" timestamp="1609125088235" />
+    <state x="135" y="123" key="SettingsEditor" timestamp="1609741477341">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="135" y="123" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1609741477341" />
+    <state x="349" y="87" key="com.intellij.database.dbimport.ImportDialog" timestamp="1609584727198">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="349" y="87" key="com.intellij.database.dbimport.ImportDialog/0.0.1536.864@0.0.1536.864" timestamp="1609584727198" />
+    <state x="683" y="378" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1609118376004">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="683" y="378" key="com.intellij.database.run.ParametersPanel.Standalone/0.0.1536.864@0.0.1536.864" timestamp="1609118376004" />
+    <state x="485" y="320" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1609035614229">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="485" y="320" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.864@0.0.1536.864" timestamp="1609035614229" />
+    <state x="533" y="0" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1609035536855">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="533" y="0" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1609035536855" />
+    <state x="356" y="0" key="new project wizard" timestamp="1608809317854">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="356" y="0" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1608809317854" />
+    <state x="473" y="184" key="refactoring.ChangeSignatureDialog" timestamp="1609418173454">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="473" y="184" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1609418173454" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1609726397809">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1609726397809" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1609576660386">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1609576660386" />
+  </component>
+</project>
